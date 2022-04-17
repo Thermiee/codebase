@@ -1,1 +1,1 @@
-# codebase
+# codebase for different react projects
